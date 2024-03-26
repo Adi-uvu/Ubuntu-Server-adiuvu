@@ -38,3 +38,7 @@
 [-] nautilus
 
 [-] firefox.snap
+
+# Usprawniono
+
+[/] Usprawniono język polski w przeglądarkach
